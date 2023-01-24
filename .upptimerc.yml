@@ -1,26 +1,57 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: Proxeuse # Your GitHub organization or username, where this repository lives
+repo: status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: API - Cloud Servers
+    check: "tcp-ping"
+    url: api.hetzner.cloud
+    port: 443
+  - name: API - Domain Registration
+    check: "tcp-ping"
+    url: api.openprovider.eu
+    port: 443
+  - name: API - Payments via PayPal
+    check: "tcp-ping"
+    url: api-m.paypal.com
+    port: 443
+  - name: API - Payments via Stripe
+    check: "tcp-ping"
+    url: api.stripe.com
+    port: 443
+  - name: Nextcloud - Storage Backend
+    check: "tcp-ping"
+    url: $NEXTCLOUD
+    port: 80
+  - name: Nextcloud - Storage Backend
+    check: "tcp-ping"
+    url: $NEXTCLOUD
+    port: 80
+  - name: Plesk - Falkenstein (DE)
+    check: "tcp-ping"
+    url: cloud.proxweb.eu
+    port: 8443
+  - name: Customer Portal
+    url: https://my.proxeuse.com
+  - name: Documentation
+    url: https://docs.proxeuse.com
+  - name: Downloads Portal
+    url: https://downloads.proxeuse.nl
+  - name: Help Center
+    url: $HELP_URL
+  - name: Portainer
+    url: https://portainer.proxeuse.com
+  - name: Pterodactyl
+    url: https://pterodactyl.proxeuse.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  cname: status.proxeuse.com
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Proxeuse Status
+  introTitle: "**Proxeuse Status**"
+  introMessage: This is the status page of Proxeuse which uses **real-time** data from our [GitHub repository](https://github.com/$OWNER/$REPO).
   navbar:
     - title: Status
       href: /
