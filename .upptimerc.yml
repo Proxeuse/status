@@ -27,17 +27,17 @@ sites:
     check: "tcp-ping"
     url: cloud.proxweb.eu
     port: 8443
-  - name: Customer Portal
+  - name: Service - Customer Portal
     url: https://my.proxeuse.com
-  - name: Documentation
+  - name: Service - Documentation
     url: https://docs.proxeuse.com
-  - name: Downloads Portal
+  - name: Service - Downloads Portal
     url: https://downloads.proxeuse.nl
-  - name: Help Center
+  - name: Service - Help Center
     url: $HELP_URL
-  - name: Portainer
+  - name: Service - Portainer
     url: https://portainer.proxeuse.com
-  - name: Pterodactyl
+  - name: Service - Pterodactyl
     url: https://pterodactyl.proxeuse.com
 
 status-website:
