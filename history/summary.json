@@ -202,17 +202,19 @@
     "url": "https://pterodactyl.proxeuse.com",
     "icon": "https://icons.duckduckgo.com/ip3/pterodactyl.proxeuse.com.ico",
     "slug": "service-pterodactyl",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 718,
-    "timeDay": 718,
-    "timeWeek": 718,
-    "timeMonth": 718,
-    "timeYear": 718,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.30%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.30%",
+    "uptimeYear": "99.30%",
+    "time": 627,
+    "timeDay": 627,
+    "timeWeek": 627,
+    "timeMonth": 627,
+    "timeYear": 627,
+    "dailyMinutesDown": {
+      "2023-01-24": 0
+    }
   }
 ]
