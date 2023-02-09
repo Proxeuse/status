@@ -34,7 +34,7 @@ sites:
   - name: Service - Downloads Portal
     url: https://downloads.proxeuse.nl
   - name: Service - Help Center
-    url: $HELP_URL
+    url: https://help.proxeuse.com
   - name: Service - Portainer
     url: https://portainer.proxeuse.com
   - name: Service - Pterodactyl
