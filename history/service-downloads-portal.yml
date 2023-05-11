@@ -1,7 +1,7 @@
 url: https://downloads.proxeuse.nl
-status: up
-code: 200
-responseTime: 2583
-lastUpdated: 2023-05-10T23:12:04.170Z
+status: down
+code: 500
+responseTime: 2374
+lastUpdated: 2023-05-11T04:52:59.897Z
 startTime: Tue Jan 24 2023 18:26:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
