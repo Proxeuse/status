@@ -1,7 +1,7 @@
 url: https://pterodactyl.proxeuse.com
-status: down
-code: 500
-responseTime: 694
-lastUpdated: 2023-05-23T00:58:51.445Z
+status: up
+code: 200
+responseTime: 805
+lastUpdated: 2023-05-23T01:40:12.668Z
 startTime: Tue Jan 24 2023 18:26:50 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
