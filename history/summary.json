@@ -187,7 +187,7 @@
     "timeMonth": 2084,
     "timeYear": 2260,
     "dailyMinutesDown": {
-      "2023-06-14": 100,
+      "2023-06-14": 107,
       "2023-06-13": 1440,
       "2023-06-12": 1440,
       "2023-06-11": 1440,
@@ -302,8 +302,8 @@
     "slug": "service-pterodactyl",
     "status": "down",
     "uptime": "97.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
     "uptimeMonth": "98.39%",
     "uptimeYear": "97.99%",
     "time": 652,
@@ -312,7 +312,7 @@
     "timeMonth": 683,
     "timeYear": 652,
     "dailyMinutesDown": {
-      "2023-06-14": 0,
+      "2023-06-14": 8,
       "2023-05-29": 63,
       "2023-05-27": 57,
       "2023-05-26": 53,
