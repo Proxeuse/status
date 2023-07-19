@@ -97,8 +97,8 @@
     "status": "down",
     "uptime": "98.71%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "67.74%",
-    "uptimeMonth": "92.58%",
+    "uptimeWeek": "67.65%",
+    "uptimeMonth": "92.56%",
     "uptimeYear": "98.71%",
     "time": 190,
     "timeDay": 0,
@@ -106,7 +106,7 @@
     "timeMonth": 178,
     "timeYear": 190,
     "dailyMinutesDown": {
-      "2023-07-19": 170,
+      "2023-07-19": 178,
       "2023-07-18": 1440,
       "2023-07-17": 1440,
       "2023-07-16": 202
@@ -140,9 +140,9 @@
     "slug": "service-documentation",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
     "time": 1258,
     "timeDay": 888,
@@ -150,7 +150,7 @@
     "timeMonth": 1151,
     "timeYear": 1258,
     "dailyMinutesDown": {
-      "2023-07-19": 0,
+      "2023-07-19": 8,
       "2023-03-21": 25,
       "2023-02-16": 26
     }
@@ -162,9 +162,9 @@
     "slug": "service-downloads-portal",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
     "time": 1855,
     "timeDay": 1302,
@@ -172,7 +172,7 @@
     "timeMonth": 1823,
     "timeYear": 1855,
     "dailyMinutesDown": {
-      "2023-07-19": 0,
+      "2023-07-19": 8,
       "2023-03-21": 25,
       "2023-02-16": 25
     }
@@ -194,7 +194,7 @@
     "timeMonth": 991,
     "timeYear": 2099,
     "dailyMinutesDown": {
-      "2023-07-19": 170,
+      "2023-07-19": 178,
       "2023-07-18": 1440,
       "2023-07-17": 1440,
       "2023-07-16": 1440,
