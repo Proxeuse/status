@@ -43,16 +43,18 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.proxeuse.com
+  cname: status.proxeu.se
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Proxeuse Status
   introTitle: "**Proxeuse Status**"
-  introMessage: This is the status page of Proxeuse which uses **real-time** data from our [GitHub repository](https://github.com/Proxeuse/Status) and [Uptime Montitoring software](https://uptime.proxeuse.com).
+  introMessage: This is the status page of Proxeuse which uses **real-time** data from our [GitHub repository](https://github.com/Proxeuse/Status) and [Uptime Montitoring software](https://uptime.proxeuse.com). In case of outages, you can find our contact information at [emergency.proxeu.se](https://emergency.proxeu.se).
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Emergency
+      href: https://emergency.proxeu.se
 
 workflowSchedule:
   graphs: "0 0 * * *"
