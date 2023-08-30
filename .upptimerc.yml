@@ -25,8 +25,10 @@ sites:
     port: 80
   - name: Plesk - Falkenstein (DE)
     check: "tcp-ping"
-    url: cloud.proxweb.eu
+    url: fsn1.proxeuse.net
     port: 8443
+  - name: Service - Authentication Portal
+    url: https://auth.proxeuse.com
   - name: Service - Customer Portal
     url: https://my.proxeuse.com
   - name: Service - Documentation
@@ -47,7 +49,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Proxeuse Status
   introTitle: "**Proxeuse Status**"
-  introMessage: This is the status page of Proxeuse which uses **real-time** data from our [GitHub repository](https://github.com/Proxeuse/Status) and [Uptime Montitoring software](https://uptime.proxeuse.com). In case of outages, you can find our contact information at [emergency.proxeu.se](https://emergency.proxeu.se).
+  introMessage: This is the status page of Proxeuse which uses **real-time** data from our [GitHub repository](https://github.com/Proxeuse/Status) and [Uptime Montitoring software](https://uptime.proxeu.se). In case of outages, you can find our contact information at [emergency.proxeu.se](https://emergency.proxeu.se).
   navbar:
     - title: Status
       href: /
