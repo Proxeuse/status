@@ -4,9 +4,9 @@
     "url": "api.hetzner.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-cloud-servers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 187,
     "timeYear": 203,
     "dailyMinutesDown": {
+      "2023-09-01": 0,
       "2023-07-26": 19
     }
   },
@@ -228,7 +229,7 @@
     "status": "up",
     "uptime": "49.46%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "35.13%",
+    "uptimeWeek": "35.15%",
     "uptimeMonth": "27.73%",
     "uptimeYear": "49.46%",
     "time": 2146,
