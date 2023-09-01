@@ -1,7 +1,7 @@
 url: api.hetzner.cloud
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-09-01T01:22:57.096Z
+status: up
+code: 200
+responseTime: 118
+lastUpdated: 2023-09-01T01:36:50.331Z
 startTime: 2023-01-24T16:54:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
