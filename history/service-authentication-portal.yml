@@ -1,7 +1,7 @@
 url: https://auth.proxeuse.com
-status: down
-code: 502
-responseTime: 399
-lastUpdated: 2023-09-17T19:12:04.796Z
+status: up
+code: 200
+responseTime: 1182
+lastUpdated: 2023-09-17T19:24:19.099Z
 startTime: 2023-08-30T12:00:58.733Z
 generator: Upptime <https://github.com/upptime/upptime>
