@@ -1,7 +1,7 @@
 url: https://help.proxeuse.com
-status: up
-code: 200
-responseTime: 1083
-lastUpdated: 2024-01-10T23:11:38.711Z
+status: down
+code: 502
+responseTime: 24890
+lastUpdated: 2024-01-11T03:25:00.509Z
 startTime: 2023-01-24T18:26:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>
