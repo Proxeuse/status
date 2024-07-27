@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 162,
-    "timeDay": 111,
-    "timeWeek": 110,
+    "timeDay": 160,
+    "timeWeek": 109,
     "timeMonth": 112,
     "timeYear": 157,
     "dailyMinutesDown": {
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 133,
-    "timeDay": 101,
+    "timeDay": 150,
     "timeWeek": 100,
     "timeMonth": 102,
-    "timeYear": 129,
+    "timeYear": 130,
     "dailyMinutesDown": {
       "2024-05-19": 59
     }
@@ -50,8 +50,8 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 18,
-    "timeDay": 2,
+    "time": 17,
+    "timeDay": 1,
     "timeWeek": 2,
     "timeMonth": 4,
     "timeYear": 11,
@@ -70,7 +70,7 @@
     "uptimeYear": "100.00%",
     "time": 27,
     "timeDay": 22,
-    "timeWeek": 16,
+    "timeWeek": 14,
     "timeMonth": 16,
     "timeYear": 23,
     "dailyMinutesDown": {}
@@ -87,7 +87,7 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 160,
-    "timeDay": 110,
+    "timeDay": 160,
     "timeWeek": 109,
     "timeMonth": 111,
     "timeYear": 146,
@@ -103,21 +103,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "plesk-falkenstein-de",
     "status": "up",
-    "uptime": "97.63%",
+    "uptime": "97.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.97%",
+    "uptimeYear": "99.24%",
     "time": 151,
-    "timeDay": 111,
-    "timeWeek": 110,
+    "timeDay": 160,
+    "timeWeek": 109,
     "timeMonth": 112,
     "timeYear": 141,
     "dailyMinutesDown": {
       "2024-04-06": 97,
       "2024-02-28": 27,
-      "2023-07-29": 1073,
-      "2023-07-28": 1440
+      "2023-07-29": 1073
     }
   },
   {
@@ -132,9 +131,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.10%",
     "time": 1326,
-    "timeDay": 1055,
-    "timeWeek": 1009,
-    "timeMonth": 991,
+    "timeDay": 1372,
+    "timeWeek": 1032,
+    "timeMonth": 995,
     "timeYear": 1326,
     "dailyMinutesDown": {
       "2024-07-17": 27,
@@ -224,11 +223,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.20%",
-    "time": 2635,
-    "timeDay": 505,
-    "timeWeek": 513,
-    "timeMonth": 522,
-    "timeYear": 2894,
+    "time": 2634,
+    "timeDay": 721,
+    "timeWeek": 517,
+    "timeMonth": 524,
+    "timeYear": 2892,
     "dailyMinutesDown": {
       "2024-04-12": 829,
       "2024-04-11": 1440,
@@ -303,8 +302,7 @@
       "2023-09-16": 71,
       "2023-09-11": 19,
       "2023-09-04": 45,
-      "2023-08-30": 24,
-      "2023-07-28": 434
+      "2023-08-30": 24
     }
   },
   {
@@ -319,7 +317,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.16%",
     "time": 1263,
-    "timeDay": 731,
+    "timeDay": 1026,
     "timeWeek": 745,
     "timeMonth": 771,
     "timeYear": 1259,
@@ -370,8 +368,7 @@
       "2023-08-30": 24,
       "2023-08-27": 124,
       "2023-08-25": 299,
-      "2023-08-23": 26,
-      "2023-07-28": 435
+      "2023-08-23": 26
     }
   },
   {
@@ -386,10 +383,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.76%",
     "time": 2784,
-    "timeDay": 1600,
-    "timeWeek": 1564,
-    "timeMonth": 1993,
-    "timeYear": 3056,
+    "timeDay": 2050,
+    "timeWeek": 1631,
+    "timeMonth": 1986,
+    "timeYear": 3058,
     "dailyMinutesDown": {
       "2024-04-12": 48,
       "2024-04-07": 25,
@@ -461,8 +458,7 @@
       "2023-09-16": 49,
       "2023-09-11": 40,
       "2023-08-30": 23,
-      "2023-08-27": 27,
-      "2023-07-28": 435
+      "2023-08-27": 27
     }
   },
   {
@@ -471,16 +467,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/help.proxeuse.com.ico",
     "slug": "service-help-center",
     "status": "up",
-    "uptime": "79.01%",
+    "uptime": "79.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.24%",
-    "time": 1656,
-    "timeDay": 1075,
-    "timeWeek": 1060,
-    "timeMonth": 1087,
-    "timeYear": 1615,
+    "uptimeYear": "91.51%",
+    "time": 1657,
+    "timeDay": 1400,
+    "timeWeek": 1073,
+    "timeMonth": 1091,
+    "timeYear": 1617,
     "dailyMinutesDown": {
       "2024-04-06": 97,
       "2024-03-13": 21,
@@ -559,8 +555,7 @@
       "2023-08-01": 55,
       "2023-07-31": 58,
       "2023-07-30": 953,
-      "2023-07-29": 1440,
-      "2023-07-28": 1440
+      "2023-07-29": 1440
     }
   },
   {
@@ -575,9 +570,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.20%",
     "time": 759,
-    "timeDay": 593,
-    "timeWeek": 622,
-    "timeMonth": 625,
+    "timeDay": 854,
+    "timeWeek": 613,
+    "timeMonth": 626,
     "timeYear": 804,
     "dailyMinutesDown": {
       "2024-04-06": 97,
@@ -600,8 +595,7 @@
       "2023-10-04": 29,
       "2023-09-25": 43,
       "2023-09-21": 932,
-      "2023-08-27": 27,
-      "2023-07-28": 435
+      "2023-08-27": 27
     }
   },
   {
@@ -610,16 +604,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/pterodactyl.proxeuse.com.ico",
     "slug": "service-pterodactyl",
     "status": "up",
-    "uptime": "98.26%",
+    "uptime": "98.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.68%",
-    "time": 1121,
-    "timeDay": 564,
-    "timeWeek": 653,
-    "timeMonth": 699,
-    "timeYear": 1247,
+    "uptimeYear": "97.69%",
+    "time": 1122,
+    "timeDay": 760,
+    "timeWeek": 636,
+    "timeMonth": 694,
+    "timeYear": 1250,
     "dailyMinutesDown": {
       "2024-04-06": 96,
       "2024-03-08": 309,
@@ -682,8 +676,7 @@
       "2023-08-03": 54,
       "2023-08-02": 52,
       "2023-08-01": 55,
-      "2023-07-31": 58,
-      "2023-07-28": 435
+      "2023-07-31": 58
     }
   }
 ]
