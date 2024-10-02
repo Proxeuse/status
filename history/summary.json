@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 154,
-    "timeDay": 110,
-    "timeWeek": 119,
+    "timeDay": 92,
+    "timeWeek": 116,
     "timeMonth": 124,
     "timeYear": 146,
     "dailyMinutesDown": {
@@ -30,9 +30,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 129,
-    "timeDay": 101,
-    "timeWeek": 109,
+    "time": 128,
+    "timeDay": 81,
+    "timeWeek": 106,
     "timeMonth": 115,
     "timeYear": 121,
     "dailyMinutesDown": {
@@ -51,7 +51,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 13,
-    "timeDay": 19,
+    "timeDay": 2,
     "timeWeek": 6,
     "timeMonth": 4,
     "timeYear": 7,
@@ -69,8 +69,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 24,
-    "timeDay": 21,
-    "timeWeek": 18,
+    "timeDay": 8,
+    "timeWeek": 16,
     "timeMonth": 21,
     "timeYear": 20,
     "dailyMinutesDown": {}
@@ -87,10 +87,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 149,
-    "timeDay": 110,
-    "timeWeek": 118,
+    "timeDay": 92,
+    "timeWeek": 116,
     "timeMonth": 124,
-    "timeYear": 131,
+    "timeYear": 130,
     "dailyMinutesDown": {
       "2024-07-17": 20,
       "2024-02-01": 21,
@@ -109,8 +109,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 141,
-    "timeDay": 111,
-    "timeWeek": 119,
+    "timeDay": 92,
+    "timeWeek": 116,
     "timeMonth": 125,
     "timeYear": 129,
     "dailyMinutesDown": {
@@ -130,9 +130,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "98.97%",
-    "time": 1311,
-    "timeDay": 1129,
-    "timeWeek": 1304,
+    "time": 1310,
+    "timeDay": 941,
+    "timeWeek": 1216,
     "timeMonth": 1213,
     "timeYear": 1275,
     "dailyMinutesDown": {
@@ -199,8 +199,7 @@
       "2023-10-17": 17,
       "2023-10-15": 25,
       "2023-10-09": 55,
-      "2023-10-04": 58,
-      "2023-10-03": 57
+      "2023-10-04": 58
     }
   },
   {
@@ -209,16 +208,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/my.proxeuse.com.ico",
     "slug": "service-customer-portal",
     "status": "up",
-    "uptime": "95.25%",
+    "uptime": "95.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.46%",
+    "uptimeMonth": "97.72%",
     "uptimeYear": "92.41%",
-    "time": 2637,
-    "timeDay": 523,
-    "timeWeek": 645,
-    "timeMonth": 623,
-    "timeYear": 2544,
+    "time": 2635,
+    "timeDay": 442,
+    "timeWeek": 609,
+    "timeMonth": 617,
+    "timeYear": 2539,
     "dailyMinutesDown": {
       "2024-09-02": 1106,
       "2024-09-01": 1440,
@@ -293,8 +292,7 @@
       "2023-10-17": 63,
       "2023-10-15": 24,
       "2023-10-09": 56,
-      "2023-10-04": 57,
-      "2023-10-03": 86
+      "2023-10-04": 57
     }
   },
   {
@@ -306,13 +304,13 @@
     "uptime": "97.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.42%",
+    "uptimeMonth": "97.68%",
     "uptimeYear": "96.39%",
-    "time": 1224,
-    "timeDay": 755,
-    "timeWeek": 848,
-    "timeMonth": 904,
-    "timeYear": 1168,
+    "time": 1225,
+    "timeDay": 738,
+    "timeWeek": 826,
+    "timeMonth": 899,
+    "timeYear": 1167,
     "dailyMinutesDown": {
       "2024-09-16": 18,
       "2024-09-02": 1106,
@@ -363,8 +361,7 @@
       "2023-10-19": 310,
       "2023-10-17": 61,
       "2023-10-15": 24,
-      "2023-10-04": 45,
-      "2023-10-03": 42
+      "2023-10-04": 45
     }
   },
   {
@@ -373,16 +370,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/downloads.proxeuse.nl.ico",
     "slug": "service-downloads-portal",
     "status": "up",
-    "uptime": "99.24%",
+    "uptime": "99.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.13%",
     "time": 2980,
-    "timeDay": 2024,
-    "timeWeek": 2094,
-    "timeMonth": 2045,
-    "timeYear": 2984,
+    "timeDay": 1630,
+    "timeWeek": 2053,
+    "timeMonth": 2026,
+    "timeYear": 2983,
     "dailyMinutesDown": {
       "2024-04-12": 48,
       "2024-04-07": 25,
@@ -443,8 +440,7 @@
       "2023-10-17": 61,
       "2023-10-15": 23,
       "2023-10-09": 34,
-      "2023-10-04": 77,
-      "2023-10-03": 68
+      "2023-10-04": 77
     }
   },
   {
@@ -453,15 +449,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/help.proxeuse.com.ico",
     "slug": "service-help-center",
     "status": "up",
-    "uptime": "81.24%",
+    "uptime": "81.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "98.87%",
     "time": 1514,
-    "timeDay": 1147,
-    "timeWeek": 1148,
-    "timeMonth": 1184,
+    "timeDay": 899,
+    "timeWeek": 1135,
+    "timeMonth": 1180,
     "timeYear": 1413,
     "dailyMinutesDown": {
       "2024-09-16": 18,
@@ -504,8 +500,7 @@
       "2023-10-19": 310,
       "2023-10-17": 353,
       "2023-10-09": 32,
-      "2023-10-04": 383,
-      "2023-10-03": 25
+      "2023-10-04": 383
     }
   },
   {
@@ -520,8 +515,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.68%",
     "time": 774,
-    "timeDay": 582,
-    "timeWeek": 707,
+    "timeDay": 560,
+    "timeWeek": 683,
     "timeMonth": 739,
     "timeYear": 823,
     "dailyMinutesDown": {
@@ -552,16 +547,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/pterodactyl.proxeuse.com.ico",
     "slug": "service-pterodactyl",
     "status": "up",
-    "uptime": "96.56%",
+    "uptime": "96.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.46%",
+    "uptimeMonth": "97.72%",
     "uptimeYear": "95.64%",
     "time": 1210,
-    "timeDay": 570,
-    "timeWeek": 695,
-    "timeMonth": 748,
-    "timeYear": 1287,
+    "timeDay": 550,
+    "timeWeek": 687,
+    "timeMonth": 742,
+    "timeYear": 1286,
     "dailyMinutesDown": {
       "2024-09-02": 1106,
       "2024-09-01": 1440,
@@ -607,8 +602,7 @@
       "2023-10-20": 454,
       "2023-10-19": 310,
       "2023-10-09": 25,
-      "2023-10-04": 35,
-      "2023-10-03": 24
+      "2023-10-04": 35
     }
   }
 ]
