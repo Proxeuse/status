@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 141,
-    "timeDay": 144,
-    "timeWeek": 134,
-    "timeMonth": 128,
-    "timeYear": 136,
+    "timeDay": 141,
+    "timeWeek": 140,
+    "timeMonth": 129,
+    "timeYear": 137,
     "dailyMinutesDown": {}
   },
   {
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 120,
-    "timeDay": 129,
-    "timeWeek": 121,
-    "timeMonth": 115,
+    "time": 119,
+    "timeDay": 130,
+    "timeWeek": 128,
+    "timeMonth": 117,
     "timeYear": 107,
     "dailyMinutesDown": {
       "2024-05-19": 59
@@ -49,8 +49,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 7,
-    "timeDay": 9,
-    "timeWeek": 3,
+    "timeDay": 8,
+    "timeWeek": 4,
     "timeMonth": 3,
     "timeYear": 4,
     "dailyMinutesDown": {}
@@ -68,8 +68,8 @@
     "uptimeYear": "100.00%",
     "time": 20,
     "timeDay": 35,
-    "timeWeek": 19,
-    "timeMonth": 18,
+    "timeWeek": 24,
+    "timeMonth": 19,
     "timeYear": 18,
     "dailyMinutesDown": {}
   },
@@ -85,9 +85,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 131,
-    "timeDay": 142,
-    "timeWeek": 133,
-    "timeMonth": 127,
+    "timeDay": 141,
+    "timeWeek": 140,
+    "timeMonth": 129,
     "timeYear": 117,
     "dailyMinutesDown": {
       "2024-07-17": 20,
@@ -107,8 +107,8 @@
     "uptimeYear": "99.85%",
     "time": 128,
     "timeDay": 142,
-    "timeWeek": 134,
-    "timeMonth": 128,
+    "timeWeek": 141,
+    "timeMonth": 129,
     "timeYear": 117,
     "dailyMinutesDown": {
       "2024-11-12": 21,
@@ -128,11 +128,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.39%",
-    "time": 1265,
-    "timeDay": 1375,
-    "timeWeek": 1196,
-    "timeMonth": 1230,
-    "timeYear": 1202,
+    "time": 1266,
+    "timeDay": 1383,
+    "timeWeek": 1263,
+    "timeMonth": 1243,
+    "timeYear": 1203,
     "dailyMinutesDown": {
       "2024-12-15": 21,
       "2024-11-24": 27,
@@ -170,8 +170,7 @@
       "2024-01-30": 24,
       "2024-01-27": 24,
       "2024-01-26": 46,
-      "2024-01-25": 52,
-      "2024-01-14": 140
+      "2024-01-25": 52
     }
   },
   {
@@ -180,18 +179,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/my.proxeuse.com.ico",
     "slug": "service-customer-portal",
     "status": "down",
-    "uptime": "92.72%",
+    "uptime": "92.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "24.44%",
-    "uptimeYear": "86.49%",
-    "time": 2071,
+    "uptimeMonth": "21.17%",
+    "uptimeYear": "86.22%",
+    "time": 2060,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 689,
-    "timeYear": 1663,
+    "timeMonth": 707,
+    "timeYear": 1660,
     "dailyMinutesDown": {
-      "2025-01-12": 118,
+      "2025-01-13": 114,
+      "2025-01-12": 1440,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
@@ -263,8 +263,7 @@
       "2024-01-29": 23,
       "2024-01-27": 23,
       "2024-01-26": 68,
-      "2024-01-25": 50,
-      "2024-01-14": 140
+      "2024-01-25": 50
     }
   },
   {
@@ -273,18 +272,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.proxeuse.com.ico",
     "slug": "service-documentation",
     "status": "down",
-    "uptime": "94.73%",
+    "uptime": "94.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "24.49%",
-    "uptimeYear": "90.36%",
+    "uptimeMonth": "21.21%",
+    "uptimeYear": "90.09%",
     "time": 1089,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 937,
+    "timeMonth": 958,
     "timeYear": 979,
     "dailyMinutesDown": {
-      "2025-01-12": 118,
+      "2025-01-13": 114,
+      "2025-01-12": 1440,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
@@ -338,8 +338,7 @@
       "2024-01-31": 29,
       "2024-01-29": 21,
       "2024-01-27": 21,
-      "2024-01-25": 48,
-      "2024-01-14": 54
+      "2024-01-25": 48
     }
   },
   {
@@ -348,18 +347,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/downloads.proxeuse.nl.ico",
     "slug": "service-downloads-portal",
     "status": "down",
-    "uptime": "92.20%",
+    "uptime": "92.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "85.45%",
-    "time": 2936,
+    "uptimeYear": "85.17%",
+    "time": 2938,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2699,
+    "timeYear": 2695,
     "dailyMinutesDown": {
-      "2025-01-12": 118,
+      "2025-01-13": 114,
+      "2025-01-12": 1440,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
@@ -438,8 +438,7 @@
       "2024-01-29": 21,
       "2024-01-27": 21,
       "2024-01-26": 65,
-      "2024-01-25": 48,
-      "2024-01-14": 82
+      "2024-01-25": 48
     }
   },
   {
@@ -448,16 +447,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/help.proxeuse.com.ico",
     "slug": "service-help-center",
     "status": "up",
-    "uptime": "83.93%",
+    "uptime": "83.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
     "time": 1312,
-    "timeDay": 1505,
-    "timeWeek": 1210,
-    "timeMonth": 1216,
-    "timeYear": 1130,
+    "timeDay": 1216,
+    "timeWeek": 1249,
+    "timeMonth": 1217,
+    "timeYear": 1131,
     "dailyMinutesDown": {
       "2024-09-16": 18,
       "2024-08-14": 519,
@@ -477,8 +476,7 @@
       "2024-01-31": 28,
       "2024-01-29": 20,
       "2024-01-27": 20,
-      "2024-01-26": 39,
-      "2024-01-14": 60
+      "2024-01-26": 39
     }
   },
   {
@@ -493,9 +491,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.86%",
     "time": 780,
-    "timeDay": 759,
-    "timeWeek": 750,
-    "timeMonth": 739,
+    "timeDay": 770,
+    "timeWeek": 778,
+    "timeMonth": 745,
     "timeYear": 798,
     "dailyMinutesDown": {
       "2024-11-20": 563,
@@ -516,8 +514,7 @@
       "2024-02-06": 15,
       "2024-01-29": 20,
       "2024-01-27": 20,
-      "2024-01-26": 22,
-      "2024-01-14": 49
+      "2024-01-26": 22
     }
   },
   {
@@ -526,18 +523,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pterodactyl.proxeuse.com.ico",
     "slug": "service-pterodactyl",
     "status": "down",
-    "uptime": "93.87%",
+    "uptime": "93.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "24.45%",
-    "uptimeYear": "90.15%",
-    "time": 1225,
+    "uptimeMonth": "21.17%",
+    "uptimeYear": "89.88%",
+    "time": 1203,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 647,
-    "timeYear": 891,
+    "timeMonth": 659,
+    "timeYear": 890,
     "dailyMinutesDown": {
-      "2025-01-12": 118,
+      "2025-01-13": 115,
+      "2025-01-12": 1440,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
@@ -589,8 +587,7 @@
       "2024-01-29": 19,
       "2024-01-27": 19,
       "2024-01-26": 45,
-      "2024-01-25": 28,
-      "2024-01-14": 75
+      "2024-01-25": 28
     }
   }
 ]
