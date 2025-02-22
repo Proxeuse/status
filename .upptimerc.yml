@@ -23,10 +23,6 @@ sites:
     check: "tcp-ping"
     url: $NEXTCLOUD
     port: 80
-  - name: Plesk - Falkenstein (DE)
-    check: "tcp-ping"
-    url: fsn1.proxeuse.net
-    port: 8443
   - name: Service - Authentication Portal
     url: https://auth.proxeuse.com
   - name: Service - Customer Portal
@@ -39,8 +35,6 @@ sites:
     url: https://help.proxeuse.com
   - name: Service - Portainer
     url: https://portainer.proxeuse.com
-  - name: Service - Pterodactyl
-    url: https://pterodactyl.proxeuse.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
