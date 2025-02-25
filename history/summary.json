@@ -143,7 +143,7 @@
     "slug": "service-customer-portal",
     "status": "up",
     "uptime": "92.04%",
-    "uptimeDay": "84.49%",
+    "uptimeDay": "84.96%",
     "uptimeWeek": "92.57%",
     "uptimeMonth": "94.78%",
     "uptimeYear": "83.60%",
@@ -244,8 +244,7 @@
       "2024-03-07": 19,
       "2024-03-03": 410,
       "2024-02-28": 747,
-      "2024-02-27": 1440,
-      "2024-02-26": 85
+      "2024-02-27": 1440
     }
   },
   {
@@ -344,13 +343,13 @@
     "slug": "service-downloads-portal",
     "status": "up",
     "uptime": "91.54%",
-    "uptimeDay": "74.77%",
-    "uptimeWeek": "89.96%",
+    "uptimeDay": "82.96%",
+    "uptimeWeek": "90.14%",
     "uptimeMonth": "94.17%",
     "uptimeYear": "82.50%",
     "time": 3390,
-    "timeDay": 6648,
-    "timeWeek": 4105,
+    "timeDay": 4747,
+    "timeWeek": 4112,
     "timeMonth": 5040,
     "timeYear": 3274,
     "dailyMinutesDown": {
@@ -449,8 +448,7 @@
       "2024-03-07": 18,
       "2024-03-03": 409,
       "2024-03-02": 16,
-      "2024-02-28": 327,
-      "2024-02-26": 38
+      "2024-02-28": 327
     }
   },
   {
@@ -465,7 +463,7 @@
     "uptimeMonth": "99.13%",
     "uptimeYear": "99.76%",
     "time": 1170,
-    "timeDay": 1406,
+    "timeDay": 1604,
     "timeWeek": 1124,
     "timeMonth": 1123,
     "timeYear": 1082,
@@ -494,7 +492,7 @@
     "uptimeMonth": "99.13%",
     "uptimeYear": "97.81%",
     "time": 783,
-    "timeDay": 802,
+    "timeDay": 845,
     "timeWeek": 659,
     "timeMonth": 673,
     "timeYear": 701,
