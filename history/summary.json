@@ -345,7 +345,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/downloads.proxeuse.nl.ico",
     "slug": "service-downloads-portal",
     "status": "up",
-    "uptime": "91.65%",
+    "uptime": "91.66%",
     "uptimeDay": "90.07%",
     "uptimeWeek": "95.23%",
     "uptimeMonth": "93.80%",
@@ -353,7 +353,7 @@
     "time": 3389,
     "timeDay": 2364,
     "timeWeek": 4056,
-    "timeMonth": 4902,
+    "timeMonth": 4920,
     "timeYear": 3338,
     "dailyMinutesDown": {
       "2025-03-03": 144,
