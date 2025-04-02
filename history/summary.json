@@ -137,11 +137,11 @@
     "url": "https://my.proxeuse.com",
     "icon": "https://icons.duckduckgo.com/ip3/my.proxeuse.com.ico",
     "slug": "service-customer-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "90.23%",
-    "uptimeWeek": "93.89%",
-    "uptimeMonth": "96.70%",
+    "uptimeDay": "89.99%",
+    "uptimeWeek": "93.86%",
+    "uptimeMonth": "96.69%",
     "uptimeYear": "99.42%",
     "time": 2275,
     "timeDay": 1303,
@@ -149,7 +149,7 @@
     "timeMonth": 3542,
     "timeYear": 2068,
     "dailyMinutesDown": {
-      "2025-04-02": 113,
+      "2025-04-02": 116,
       "2025-04-01": 27,
       "2025-03-31": 92,
       "2025-03-30": 86,
@@ -190,7 +190,7 @@
       "2025-02-13": 28,
       "2025-02-12": 361,
       "2025-02-10": 81,
-      "2025-02-09": 81
+      "2025-02-09": 63
     }
   },
   {
@@ -198,10 +198,10 @@
     "url": "https://docs.proxeuse.com",
     "icon": "https://icons.duckduckgo.com/ip3/docs.proxeuse.com.ico",
     "slug": "service-documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "94.12%",
-    "uptimeDay": "93.88%",
-    "uptimeWeek": "97.95%",
+    "uptimeDay": "93.75%",
+    "uptimeWeek": "97.93%",
     "uptimeMonth": "98.93%",
     "uptimeYear": "87.49%",
     "time": 1423,
@@ -210,7 +210,7 @@
     "timeMonth": 2591,
     "timeYear": 1408,
     "dailyMinutesDown": {
-      "2025-04-02": 88,
+      "2025-04-02": 90,
       "2025-03-31": 57,
       "2025-03-30": 18,
       "2025-03-29": 44,
@@ -300,12 +300,12 @@
     "url": "https://downloads.proxeuse.nl",
     "icon": "https://icons.duckduckgo.com/ip3/downloads.proxeuse.nl.ico",
     "slug": "service-downloads-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "83.63%",
-    "uptimeWeek": "93.26%",
+    "uptimeDay": "83.60%",
+    "uptimeWeek": "93.25%",
     "uptimeMonth": "95.59%",
-    "uptimeYear": "99.46%",
+    "uptimeYear": "99.47%",
     "time": 3542,
     "timeDay": 5424,
     "timeWeek": 2846,
@@ -343,7 +343,7 @@
       "2025-02-24": 357,
       "2025-02-23": 69,
       "2025-02-22": 55,
-      "2025-02-21": 122
+      "2025-02-21": 107
     }
   },
   {
