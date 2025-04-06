@@ -298,9 +298,9 @@
     "url": "https://downloads.proxeuse.nl",
     "icon": "https://icons.duckduckgo.com/ip3/downloads.proxeuse.nl.ico",
     "slug": "service-downloads-portal",
-    "status": "up",
-    "uptime": "99.75%",
-    "uptimeDay": "76.67%",
+    "status": "down",
+    "uptime": "99.76%",
+    "uptimeDay": "76.64%",
     "uptimeWeek": "87.87%",
     "uptimeMonth": "94.39%",
     "uptimeYear": "99.46%",
@@ -337,8 +337,7 @@
       "2025-03-06": 61,
       "2025-03-05": 99,
       "2025-03-03": 144,
-      "2025-03-02": 126,
-      "2025-03-01": 30
+      "2025-03-02": 126
     }
   },
   {
