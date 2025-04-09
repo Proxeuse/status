@@ -137,17 +137,17 @@
     "slug": "service-customer-portal",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "87.08%",
-    "uptimeWeek": "90.19%",
-    "uptimeMonth": "95.17%",
-    "uptimeYear": "99.45%",
-    "time": 2552,
-    "timeDay": 11021,
-    "timeWeek": 5408,
-    "timeMonth": 3986,
-    "timeYear": 2315,
+    "uptimeDay": "86.06%",
+    "uptimeWeek": "90.04%",
+    "uptimeMonth": "95.14%",
+    "uptimeYear": "99.46%",
+    "time": 2550,
+    "timeDay": 9809,
+    "timeWeek": 5321,
+    "timeMonth": 3963,
+    "timeYear": 2313,
     "dailyMinutesDown": {
-      "2025-04-09": 18,
+      "2025-04-09": 33,
       "2025-04-08": 216,
       "2025-04-07": 146,
       "2025-04-06": 193,
@@ -185,7 +185,7 @@
       "2025-02-24": 223,
       "2025-02-23": 69,
       "2025-02-22": 18,
-      "2025-02-21": 37
+      "2025-02-21": 17
     }
   },
   {
@@ -301,17 +301,17 @@
     "slug": "service-downloads-portal",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "70.85%",
-    "uptimeWeek": "82.75%",
-    "uptimeMonth": "93.02%",
+    "uptimeDay": "69.94%",
+    "uptimeWeek": "82.80%",
+    "uptimeMonth": "93.05%",
     "uptimeYear": "99.41%",
-    "time": 3908,
-    "timeDay": 8904,
-    "timeWeek": 7748,
-    "timeMonth": 5586,
-    "timeYear": 4085,
+    "time": 3906,
+    "timeDay": 8313,
+    "timeWeek": 7677,
+    "timeMonth": 5426,
+    "timeYear": 4083,
     "dailyMinutesDown": {
-      "2025-04-09": 136,
+      "2025-04-09": 149,
       "2025-04-08": 330,
       "2025-04-07": 62,
       "2025-04-06": 477,
@@ -337,7 +337,7 @@
       "2025-03-15": 38,
       "2025-03-10": 112,
       "2025-03-09": 138,
-      "2025-03-08": 60
+      "2025-03-08": 35
     }
   },
   {
