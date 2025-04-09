@@ -135,18 +135,19 @@
     "url": "https://my.proxeuse.com",
     "icon": "https://icons.duckduckgo.com/ip3/my.proxeuse.com.ico",
     "slug": "service-customer-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "85.08%",
-    "uptimeWeek": "89.89%",
+    "uptimeDay": "87.13%",
+    "uptimeWeek": "90.34%",
     "uptimeMonth": "95.21%",
-    "uptimeYear": "99.45%",
+    "uptimeYear": "99.46%",
     "time": 2509,
     "timeDay": 7212,
-    "timeWeek": 4779,
+    "timeWeek": 4872,
     "timeMonth": 3760,
     "timeYear": 2262,
     "dailyMinutesDown": {
+      "2025-04-09": 2,
       "2025-04-08": 216,
       "2025-04-07": 146,
       "2025-04-06": 193,
@@ -184,7 +185,7 @@
       "2025-02-24": 223,
       "2025-02-23": 69,
       "2025-02-22": 18,
-      "2025-02-21": 70
+      "2025-02-21": 37
     }
   },
   {
@@ -194,13 +195,13 @@
     "slug": "service-documentation",
     "status": "up",
     "uptime": "94.23%",
-    "uptimeDay": "88.60%",
-    "uptimeWeek": "93.70%",
+    "uptimeDay": "90.70%",
+    "uptimeWeek": "94.16%",
     "uptimeMonth": "97.85%",
     "uptimeYear": "87.41%",
     "time": 1624,
-    "timeDay": 7762,
-    "timeWeek": 5141,
+    "timeDay": 4332,
+    "timeWeek": 5261,
     "timeMonth": 3326,
     "timeYear": 1689,
     "dailyMinutesDown": {
@@ -298,15 +299,15 @@
     "url": "https://downloads.proxeuse.nl",
     "icon": "https://icons.duckduckgo.com/ip3/downloads.proxeuse.nl.ico",
     "slug": "service-downloads-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "69.50%",
-    "uptimeWeek": "82.58%",
+    "uptimeDay": "71.68%",
+    "uptimeWeek": "83.02%",
     "uptimeMonth": "93.08%",
     "uptimeYear": "99.41%",
-    "time": 3906,
+    "time": 3905,
     "timeDay": 8490,
-    "timeWeek": 7695,
+    "timeWeek": 7779,
     "timeMonth": 5585,
     "timeYear": 4082,
     "dailyMinutesDown": {
@@ -336,7 +337,7 @@
       "2025-03-15": 38,
       "2025-03-10": 112,
       "2025-03-09": 138,
-      "2025-03-08": 94
+      "2025-03-08": 60
     }
   },
   {
