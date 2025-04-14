@@ -140,7 +140,7 @@
     "slug": "service-customer-portal",
     "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "85.39%",
+    "uptimeDay": "85.60%",
     "uptimeWeek": "75.36%",
     "uptimeMonth": "90.60%",
     "uptimeYear": "99.14%",
@@ -195,7 +195,7 @@
     "slug": "service-documentation",
     "status": "up",
     "uptime": "94.14%",
-    "uptimeDay": "93.15%",
+    "uptimeDay": "93.26%",
     "uptimeWeek": "80.80%",
     "uptimeMonth": "94.04%",
     "uptimeYear": "87.08%",
@@ -305,15 +305,15 @@
     "url": "https://downloads.proxeuse.nl",
     "icon": "https://icons.duckduckgo.com/ip3/downloads.proxeuse.nl.ico",
     "slug": "service-downloads-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "84.83%",
+    "uptimeDay": "84.80%",
     "uptimeWeek": "80.71%",
-    "uptimeMonth": "91.45%",
+    "uptimeMonth": "91.52%",
     "uptimeYear": "99.29%",
     "time": 4103,
     "timeDay": 6117,
-    "timeWeek": 6479,
+    "timeWeek": 6553,
     "timeMonth": 5367,
     "timeYear": 4277,
     "dailyMinutesDown": {
@@ -334,7 +334,7 @@
       "2025-03-31": 119,
       "2025-03-30": 44,
       "2025-03-29": 180,
-      "2025-03-28": 84
+      "2025-03-28": 51
     }
   },
   {
