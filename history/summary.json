@@ -139,18 +139,19 @@
     "url": "https://my.proxeuse.com",
     "icon": "https://icons.duckduckgo.com/ip3/my.proxeuse.com.ico",
     "slug": "service-customer-portal",
-    "status": "up",
-    "uptime": "99.62%",
-    "uptimeDay": "94.73%",
-    "uptimeWeek": "95.58%",
-    "uptimeMonth": "90.20%",
+    "status": "down",
+    "uptime": "99.63%",
+    "uptimeDay": "94.54%",
+    "uptimeWeek": "95.56%",
+    "uptimeMonth": "90.19%",
     "uptimeYear": "99.16%",
     "time": 2649,
     "timeDay": 4030,
-    "timeWeek": 3102,
-    "timeMonth": 4118,
+    "timeWeek": 3139,
+    "timeMonth": 4137,
     "timeYear": 2473,
     "dailyMinutesDown": {
+      "2025-04-24": 3,
       "2025-04-23": 94,
       "2025-04-22": 24,
       "2025-04-21": 129,
@@ -181,7 +182,7 @@
       "2025-03-25": 15,
       "2025-03-24": 67,
       "2025-03-23": 39,
-      "2025-03-22": 80
+      "2025-03-22": 63
     }
   },
   {
@@ -307,16 +308,16 @@
     "url": "https://downloads.proxeuse.nl",
     "icon": "https://icons.duckduckgo.com/ip3/downloads.proxeuse.nl.ico",
     "slug": "service-downloads-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "89.61%",
-    "uptimeWeek": "89.32%",
-    "uptimeMonth": "91.06%",
+    "uptimeDay": "89.58%",
+    "uptimeWeek": "89.67%",
+    "uptimeMonth": "91.10%",
     "uptimeYear": "99.26%",
-    "time": 4267,
+    "time": 4270,
     "timeDay": 12805,
-    "timeWeek": 6302,
-    "timeMonth": 6069,
+    "timeWeek": 6375,
+    "timeMonth": 6088,
     "timeYear": 4462,
     "dailyMinutesDown": {
       "2025-04-24": 33,
@@ -337,7 +338,7 @@
       "2025-04-07": 62,
       "2025-04-06": 477,
       "2025-04-05": 150,
-      "2025-04-04": 115
+      "2025-04-04": 99
     }
   },
   {
@@ -346,7 +347,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/help.proxeuse.com.ico",
     "slug": "service-help-center",
     "status": "up",
-    "uptime": "85.78%",
+    "uptime": "85.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.64%",
