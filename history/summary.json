@@ -139,19 +139,19 @@
     "url": "https://my.proxeuse.com",
     "icon": "https://icons.duckduckgo.com/ip3/my.proxeuse.com.ico",
     "slug": "service-customer-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "94.14%",
-    "uptimeWeek": "94.29%",
-    "uptimeMonth": "89.80%",
-    "uptimeYear": "99.14%",
+    "uptimeDay": "93.98%",
+    "uptimeWeek": "94.26%",
+    "uptimeMonth": "89.79%",
+    "uptimeYear": "99.15%",
     "time": 2637,
     "timeDay": 1758,
     "timeWeek": 2950,
     "timeMonth": 4222,
     "timeYear": 2511,
     "dailyMinutesDown": {
-      "2025-04-27": 58,
+      "2025-04-27": 60,
       "2025-04-26": 44,
       "2025-04-25": 142,
       "2025-04-24": 86,
@@ -179,8 +179,7 @@
       "2025-03-31": 92,
       "2025-03-30": 86,
       "2025-03-29": 94,
-      "2025-03-28": 108,
-      "2025-03-27": 72
+      "2025-03-28": 108
     }
   },
   {
@@ -297,14 +296,14 @@
     "url": "https://downloads.proxeuse.nl",
     "icon": "https://icons.duckduckgo.com/ip3/downloads.proxeuse.nl.ico",
     "slug": "service-downloads-portal",
-    "status": "up",
-    "uptime": "99.68%",
-    "uptimeDay": "80.36%",
+    "status": "down",
+    "uptime": "99.69%",
+    "uptimeDay": "81.81%",
     "uptimeWeek": "83.21%",
-    "uptimeMonth": "91.44%",
-    "uptimeYear": "99.29%",
+    "uptimeMonth": "91.70%",
+    "uptimeYear": "99.31%",
     "time": 4417,
-    "timeDay": 11982,
+    "timeDay": 12288,
     "timeWeek": 8168,
     "timeMonth": 6521,
     "timeYear": 4660,
@@ -325,8 +324,7 @@
       "2025-04-12": 247,
       "2025-04-11": 189,
       "2025-04-10": 357,
-      "2025-04-09": 344,
-      "2025-04-08": 4
+      "2025-04-09": 235
     }
   },
   {
