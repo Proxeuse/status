@@ -264,12 +264,12 @@
     "url": "https://downloads.proxeuse.nl",
     "icon": "https://icons.duckduckgo.com/ip3/downloads.proxeuse.nl.ico",
     "slug": "service-downloads-portal",
-    "status": "up",
-    "uptime": "99.68%",
-    "uptimeDay": "68.93%",
+    "status": "down",
+    "uptime": "99.69%",
+    "uptimeDay": "68.91%",
     "uptimeWeek": "80.62%",
-    "uptimeMonth": "91.46%",
-    "uptimeYear": "99.29%",
+    "uptimeMonth": "91.62%",
+    "uptimeYear": "99.30%",
     "time": 4430,
     "timeDay": 4473,
     "timeWeek": 8169,
@@ -292,7 +292,7 @@
       "2025-04-13": 280,
       "2025-04-12": 247,
       "2025-04-11": 189,
-      "2025-04-10": 357
+      "2025-04-10": 286
     }
   },
   {
