@@ -139,19 +139,19 @@
     "url": "https://my.proxeuse.com",
     "icon": "https://icons.duckduckgo.com/ip3/my.proxeuse.com.ico",
     "slug": "service-customer-portal",
-    "status": "up",
-    "uptime": "99.61%",
-    "uptimeDay": "86.64%",
-    "uptimeWeek": "92.95%",
-    "uptimeMonth": "89.49%",
-    "uptimeYear": "99.12%",
+    "status": "down",
+    "uptime": "99.62%",
+    "uptimeDay": "86.57%",
+    "uptimeWeek": "92.94%",
+    "uptimeMonth": "89.57%",
+    "uptimeYear": "99.13%",
     "time": 2706,
     "timeDay": 1738,
     "timeWeek": 2853,
     "timeMonth": 4172,
     "timeYear": 2509,
     "dailyMinutesDown": {
-      "2025-04-28": 115,
+      "2025-04-28": 116,
       "2025-04-27": 77,
       "2025-04-26": 44,
       "2025-04-25": 142,
@@ -180,7 +180,7 @@
       "2025-03-31": 92,
       "2025-03-30": 86,
       "2025-03-29": 94,
-      "2025-03-28": 108
+      "2025-03-28": 73
     }
   },
   {
@@ -188,19 +188,19 @@
     "url": "https://docs.proxeuse.com",
     "icon": "https://icons.duckduckgo.com/ip3/docs.proxeuse.com.ico",
     "slug": "service-documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "87.30%",
-    "uptimeWeek": "95.33%",
+    "uptimeDay": "87.26%",
+    "uptimeWeek": "95.32%",
     "uptimeMonth": "92.82%",
-    "uptimeYear": "99.07%",
+    "uptimeYear": "99.08%",
     "time": 1799,
     "timeDay": 3031,
     "timeWeek": 2633,
     "timeMonth": 3658,
     "timeYear": 1937,
     "dailyMinutesDown": {
-      "2025-04-28": 116,
+      "2025-04-28": 117,
       "2025-04-27": 68,
       "2025-04-26": 34,
       "2025-04-25": 113,
@@ -255,8 +255,7 @@
       "2025-02-04": 20,
       "2025-02-02": 39,
       "2025-01-31": 19,
-      "2025-01-30": 26,
-      "2025-01-27": 25
+      "2025-01-30": 26
     }
   },
   {
@@ -264,12 +263,12 @@
     "url": "https://downloads.proxeuse.nl",
     "icon": "https://icons.duckduckgo.com/ip3/downloads.proxeuse.nl.ico",
     "slug": "service-downloads-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "66.51%",
-    "uptimeWeek": "80.28%",
-    "uptimeMonth": "91.54%",
-    "uptimeYear": "99.29%",
+    "uptimeDay": "66.48%",
+    "uptimeWeek": "80.27%",
+    "uptimeMonth": "91.58%",
+    "uptimeYear": "99.30%",
     "time": 4427,
     "timeDay": 4287,
     "timeWeek": 8081,
@@ -292,7 +291,7 @@
       "2025-04-13": 280,
       "2025-04-12": 247,
       "2025-04-11": 189,
-      "2025-04-10": 286
+      "2025-04-10": 266
     }
   },
   {
