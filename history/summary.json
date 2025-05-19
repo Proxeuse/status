@@ -36,8 +36,7 @@
     "dailyMinutesDown": {
       "2025-04-11": 21,
       "2025-04-10": 63,
-      "2025-02-27": 17,
-      "2024-05-19": 59
+      "2025-02-27": 17
     }
   },
   {
@@ -273,12 +272,12 @@
     "uptime": "99.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.79%",
+    "uptimeMonth": "93.83%",
     "uptimeYear": "99.26%",
     "time": 4420,
     "timeDay": 2106,
     "timeWeek": 2006,
-    "timeMonth": 6209,
+    "timeMonth": 6231,
     "timeYear": 4650,
     "dailyMinutesDown": {
       "2025-05-10": 21,
