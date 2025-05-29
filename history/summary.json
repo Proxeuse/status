@@ -102,7 +102,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.proxeuse.com.ico",
     "slug": "service-authentication-portal",
     "status": "up",
-    "uptime": "98.94%",
+    "uptime": "98.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.67%",
@@ -138,7 +138,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/my.proxeuse.com.ico",
     "slug": "service-customer-portal",
     "status": "up",
-    "uptime": "99.45%",
+    "uptime": "99.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.60%",
@@ -189,9 +189,9 @@
     "url": "https://docs.proxeuse.com",
     "icon": "https://icons.duckduckgo.com/ip3/docs.proxeuse.com.ico",
     "slug": "service-documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.60%",
     "uptimeYear": "98.67%",
@@ -201,6 +201,7 @@
     "timeMonth": 1340,
     "timeYear": 1966,
     "dailyMinutesDown": {
+      "2025-05-29": 0,
       "2025-05-13": 1062,
       "2025-05-12": 813,
       "2025-05-10": 21,
@@ -257,8 +258,7 @@
       "2025-02-07": 20,
       "2025-02-06": 58,
       "2025-02-05": 92,
-      "2025-02-04": 20,
-      "2025-02-02": 18
+      "2025-02-04": 20
     }
   },
   {
@@ -304,7 +304,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/help.proxeuse.com.ico",
     "slug": "service-help-center",
     "status": "up",
-    "uptime": "86.22%",
+    "uptime": "86.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.59%",
