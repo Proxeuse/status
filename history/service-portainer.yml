@@ -1,7 +1,7 @@
 url: https://portainer.proxeuse.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-06-12T10:27:57.290Z
+status: up
+code: 200
+responseTime: 527
+lastUpdated: 2025-06-12T13:36:16.071Z
 startTime: 2023-01-24T18:26:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>
