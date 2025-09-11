@@ -101,10 +101,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.proxeuse.com.ico",
     "slug": "service-authentication-portal",
     "status": "up",
-    "uptime": "99.08%",
-    "uptimeDay": "94.77%",
-    "uptimeWeek": "98.99%",
-    "uptimeMonth": "99.73%",
+    "uptime": "99.07%",
+    "uptimeDay": "95.12%",
+    "uptimeWeek": "99.04%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "99.18%",
     "time": 1127,
     "timeDay": 940,
@@ -112,7 +112,7 @@
     "timeMonth": 1210,
     "timeYear": 1187,
     "dailyMinutesDown": {
-      "2025-09-10": 75,
+      "2025-09-10": 70,
       "2025-09-05": 27,
       "2025-08-28": 18,
       "2025-07-12": 20,
@@ -130,8 +130,7 @@
       "2024-12-15": 21,
       "2024-11-24": 27,
       "2024-11-13": 27,
-      "2024-11-12": 20,
-      "2024-09-11": 19
+      "2024-11-12": 20
     }
   },
   {
@@ -288,7 +287,7 @@
     "uptime": "95.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.53%",
-    "uptimeMonth": "80.94%",
+    "uptimeMonth": "81.30%",
     "uptimeYear": "88.81%",
     "time": 4390,
     "timeDay": 15069,
