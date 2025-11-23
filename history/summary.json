@@ -138,18 +138,19 @@
     "url": "https://my.proxeuse.com",
     "icon": "https://icons.duckduckgo.com/ip3/my.proxeuse.com.ico",
     "slug": "service-customer-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "98.62%",
-    "time": 2466,
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "98.63%",
+    "time": 2468,
     "timeDay": 2224,
     "timeWeek": 2612,
     "timeMonth": 1943,
     "timeYear": 2918,
     "dailyMinutesDown": {
+      "2025-11-23": 2,
       "2025-11-07": 24,
       "2025-10-09": 63,
       "2025-09-25": 17,
@@ -193,7 +194,7 @@
       "2025-04-05": 118,
       "2025-04-04": 82,
       "2025-04-03": 61,
-      "2025-04-02": 156
+      "2025-04-02": 134
     }
   },
   {
