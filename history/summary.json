@@ -138,19 +138,19 @@
     "url": "https://my.proxeuse.com",
     "icon": "https://icons.duckduckgo.com/ip3/my.proxeuse.com.ico",
     "slug": "service-customer-portal",
-    "status": "up",
-    "uptime": "99.51%",
-    "uptimeDay": "98.91%",
-    "uptimeWeek": "99.84%",
+    "status": "down",
+    "uptime": "99.52%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "98.62%",
-    "time": 2475,
+    "uptimeYear": "98.63%",
+    "time": 2477,
     "timeDay": 3906,
     "timeWeek": 2942,
     "timeMonth": 2047,
     "timeYear": 2922,
     "dailyMinutesDown": {
-      "2025-11-23": 16,
+      "2025-11-23": 17,
       "2025-11-07": 24,
       "2025-10-09": 63,
       "2025-09-25": 17,
@@ -194,7 +194,7 @@
       "2025-04-05": 118,
       "2025-04-04": 82,
       "2025-04-03": 61,
-      "2025-04-02": 134
+      "2025-04-02": 91
     }
   },
   {
@@ -288,9 +288,9 @@
     "slug": "service-downloads-portal",
     "status": "up",
     "uptime": "96.05%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "88.82%",
     "time": 4385,
     "timeDay": 7781,
@@ -298,7 +298,6 @@
     "timeMonth": 2477,
     "timeYear": 4799,
     "dailyMinutesDown": {
-      "2025-11-23": 12,
       "2025-10-09": 63,
       "2025-09-25": 37,
       "2025-09-09": 17,
@@ -362,7 +361,7 @@
       "2025-04-17": 153,
       "2025-04-14": 289,
       "2025-04-13": 280,
-      "2025-04-12": 28
+      "2025-04-12": 45
     }
   },
   {
@@ -409,9 +408,9 @@
     "slug": "service-portainer",
     "status": "up",
     "uptime": "98.70%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.19%",
     "time": 715,
     "timeDay": 711,
@@ -419,7 +418,6 @@
     "timeMonth": 864,
     "timeYear": 734,
     "dailyMinutesDown": {
-      "2025-11-23": 11,
       "2025-11-03": 16,
       "2025-09-25": 17,
       "2025-09-17": 27,
