@@ -137,18 +137,19 @@
     "url": "https://my.proxeuse.com",
     "icon": "https://icons.duckduckgo.com/ip3/my.proxeuse.com.ico",
     "slug": "service-customer-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "98.63%",
-    "time": 2507,
+    "time": 2509,
     "timeDay": 2337,
     "timeWeek": 1451,
     "timeMonth": 2078,
     "timeYear": 2951,
     "dailyMinutesDown": {
+      "2025-12-09": 1,
       "2025-11-23": 35,
       "2025-11-07": 24,
       "2025-10-09": 63,
@@ -193,7 +194,7 @@
       "2025-04-05": 118,
       "2025-04-04": 82,
       "2025-04-03": 61,
-      "2025-04-02": 91
+      "2025-04-02": 63
     }
   },
   {
@@ -201,18 +202,19 @@
     "url": "https://docs.proxeuse.com",
     "icon": "https://icons.duckduckgo.com/ip3/docs.proxeuse.com.ico",
     "slug": "service-documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.62%",
-    "time": 1722,
+    "time": 1723,
     "timeDay": 1215,
     "timeWeek": 915,
     "timeMonth": 1126,
     "timeYear": 2054,
     "dailyMinutesDown": {
+      "2025-12-09": 1,
       "2025-10-09": 63,
       "2025-09-25": 17,
       "2025-09-10": 70,
@@ -277,7 +279,7 @@
       "2025-02-19": 19,
       "2025-02-17": 17,
       "2025-02-12": 361,
-      "2025-02-09": 60
+      "2025-02-09": 44
     }
   },
   {
@@ -285,18 +287,19 @@
     "url": "https://downloads.proxeuse.nl",
     "icon": "https://icons.duckduckgo.com/ip3/downloads.proxeuse.nl.ico",
     "slug": "service-downloads-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "96.11%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "88.82%",
-    "time": 4390,
+    "time": 4394,
     "timeDay": 2214,
     "timeWeek": 1853,
     "timeMonth": 2432,
     "timeYear": 4739,
     "dailyMinutesDown": {
+      "2025-12-09": 1,
       "2025-10-09": 63,
       "2025-09-25": 37,
       "2025-09-09": 17,
@@ -360,7 +363,7 @@
       "2025-04-17": 153,
       "2025-04-14": 289,
       "2025-04-13": 280,
-      "2025-04-12": 45
+      "2025-04-12": 28
     }
   },
   {
