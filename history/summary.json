@@ -98,13 +98,13 @@
     "url": "https://auth.proxeuse.com",
     "icon": "https://icons.duckduckgo.com/ip3/auth.proxeuse.com.ico",
     "slug": "service-authentication-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.31%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.86%",
-    "time": 1323,
+    "uptimeDay": "98.28%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.87%",
+    "time": 1324,
     "timeDay": 1424,
     "timeWeek": 1938,
     "timeMonth": 1857,
@@ -118,7 +118,8 @@
       "2025-11-03": 20,
       "2025-12-11": 175,
       "2026-04-14": 73,
-      "2026-05-12": 103
+      "2026-05-12": 103,
+      "2026-06-12": 25
     }
   },
   {
@@ -126,13 +127,13 @@
     "url": "https://my.proxeuse.com",
     "icon": "https://icons.duckduckgo.com/ip3/my.proxeuse.com.ico",
     "slug": "service-customer-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "92.60%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.35%",
-    "uptimeYear": "76.16%",
-    "time": 2076,
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.40%",
+    "uptimeYear": "76.17%",
+    "time": 2077,
     "timeDay": 1072,
     "timeWeek": 2756,
     "timeMonth": 1985,
@@ -243,7 +244,8 @@
       "2026-01-29": 994,
       "2026-05-12": 98,
       "2026-05-22": 119,
-      "2026-05-23": 67
+      "2026-05-23": 67,
+      "2026-06-12": 20
     }
   },
   {
@@ -251,11 +253,11 @@
     "url": "https://docs.proxeuse.com",
     "icon": "https://icons.duckduckgo.com/ip3/docs.proxeuse.com.ico",
     "slug": "service-documentation",
-    "status": "up",
-    "uptime": "92.62%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.73%",
+    "status": "down",
+    "uptime": "92.63%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.70%",
     "uptimeYear": "76.21%",
     "time": 1573,
     "timeDay": 952,
@@ -365,7 +367,8 @@
       "2026-01-31": 1440,
       "2026-01-30": 1440,
       "2026-01-29": 994,
-      "2026-05-22": 118
+      "2026-05-22": 118,
+      "2026-06-12": 15
     }
   },
   {
@@ -374,11 +377,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/downloads.proxeuse.nl.ico",
     "slug": "service-downloads-portal",
     "status": "down",
-    "uptime": "81.75%",
+    "uptime": "81.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "38.98%",
+    "uptimeYear": "38.90%",
     "time": 2905,
     "timeDay": 0,
     "timeWeek": 0,
@@ -430,7 +433,7 @@
       "2025-09-09": 17,
       "2025-09-25": 37,
       "2025-10-09": 63,
-      "2026-06-12": 294,
+      "2026-06-12": 694,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
       "2026-06-09": 1440,
@@ -623,12 +626,12 @@
     "url": "https://help.proxeuse.com",
     "icon": "https://icons.duckduckgo.com/ip3/help.proxeuse.com.ico",
     "slug": "service-help-center",
-    "status": "up",
+    "status": "down",
     "uptime": "92.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.81%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.82%",
     "time": 1282,
     "timeDay": 919,
     "timeWeek": 1117,
@@ -649,7 +652,8 @@
       "2026-01-14": 40,
       "2026-03-02": 60,
       "2026-04-14": 73,
-      "2026-05-01": 64
+      "2026-05-01": 64,
+      "2026-06-12": 6
     }
   },
   {
@@ -657,12 +661,12 @@
     "url": "https://portainer.proxeuse.com",
     "icon": "https://icons.duckduckgo.com/ip3/portainer.proxeuse.com.ico",
     "slug": "service-portainer",
-    "status": "up",
+    "status": "down",
     "uptime": "98.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.73%",
-    "uptimeYear": "99.85%",
+    "uptimeYear": "99.86%",
     "time": 756,
     "timeDay": 587,
     "timeWeek": 838,
@@ -678,7 +682,8 @@
       "2025-11-03": 16,
       "2025-12-11": 174,
       "2026-04-14": 72,
-      "2026-05-22": 118
+      "2026-05-22": 118,
+      "2026-06-12": 1
     }
   }
 ]
